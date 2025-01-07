@@ -80,7 +80,6 @@ Parameters for the Random Forest model were optimized using a grid search, which
   - Test Score: `0.6633157663844678`
 - **Random Forest Regressor**:
   - Test Score: `0.8169850534542374`
-  - Optimized Parameter: `bedroom_per_room`
 
 The results showed that Random Forest achieved a better score compared to Linear Regression.
 
