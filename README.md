@@ -1,7 +1,3 @@
-Here's a GitHub README template for your House Price Prediction project: 
-
----
-
 # House Price Prediction
 
 This project involves predicting house prices in California using a variety of machine learning techniques. The dataset includes features such as location, number of rooms, population, and proximity to the ocean. The project employs feature engineering, data preprocessing, and multiple regression models to achieve accurate predictions.
