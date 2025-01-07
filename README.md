@@ -134,5 +134,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - California Housing Dataset
 - Scikit-learn documentation
 
-Feel free to modify and add your GitHub username and specific parameter values for results in the placeholders.
 
